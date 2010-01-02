@@ -39,7 +39,7 @@ Author URI: http://www.kifulab.net
 	function http_express_install_rules($rules){
 	
 		$rule = '\.(jpeg|jpg|gif|bmp|png|swf|js|css)$';
-		$action = './wp-content/plugins/http_express/do_http_header.php?file=%{REQUEST_FILENAME}';
+		$action = './wp-content/plugins/http-express/do_http_header.php?file=%{REQUEST_FILENAME}';
 		
 		$rules = array();
 		$rules[] = "###Begin HTTP Express";

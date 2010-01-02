@@ -6,7 +6,7 @@
 	$errors = array();
 	$rules = array();
 	$rule = '\.(jpeg|jpg|gif|bmp|png|swf|js|css)$';
-	$action = './wp-content/plugins/http_express/do_http_header.php?file=%{REQUEST_FILENAME}';
+	$action = './wp-content/plugins/http-express/do_http_header.php?file=%{REQUEST_FILENAME}';
 	$rules[] = "###Begin HTTP Express";
 	$rules[] = "&lt;IfModule mod_rewrite.c&gt;";
 	$rules[] = "RewriteEngine On";
