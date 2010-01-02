@@ -2,14 +2,14 @@
 /**
 * @package Kifulab HTTP Express
 * @author Kifulab
-* @version 1.0
+* @version 1.0.1
 */
 /*
 Plugin Name: HTTP Express
 Plugin URI: http://www.kifulab.net/plugins/http_express
 Description: Enable a php based HTTP proxy to add correct HTTP headers to images, css and javascripts. Useful if you want to improve cache usage and reduce bandwidth impact. Requires Apache with mod_rewrite enabled to work.
 Author: Kifulab
-Version: 1.0
+Version: 1.0.1
 Author URI: http://www.kifulab.net
 */
 	
