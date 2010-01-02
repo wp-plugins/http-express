@@ -26,6 +26,10 @@ Upload the HTTP Express plugin to your blog, Activate it. Remember that if your 
 
 == Changelog ==
 
+= 1.0.1 =
+
+* Minor bug fixed
+
 = 1.0 =
 
 * First Release
