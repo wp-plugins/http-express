@@ -2,7 +2,7 @@
 /**
 * @package Kifulab HTTP Express
 * @author Kifulab
-* @version 1.0.1
+* @version 1.0.2
 */
 /*
 Plugin Name: HTTP Express
